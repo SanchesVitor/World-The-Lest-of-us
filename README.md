@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site The Last of Us foi desenvolvido para boas praticas.
 
-- [Visite o projeto online](https://sanchesvitor.github.io/Habits-Me/)
+- [Visite o projeto online](https://sanchesvitor.github.io/World-The-Lest-of-us/)
 
 ## :memo: Licença
 
